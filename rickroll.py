@@ -1,8 +1,8 @@
 # PIL and playsound libraries need to be installed via pip
 
-# Audio file should be pre-downloaded using a third-party
-# website with the name audio.mp3 and place in the same directory
-# as this script
+# Audio file should be pre-downloaded using a 
+# third-party website with the name audio.mp3 
+# and placed in the same directory as this script
 
 from PIL import Image
 from os import getenv, system
